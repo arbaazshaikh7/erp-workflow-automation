@@ -137,9 +137,11 @@ streamlit run dashboard/app.py
 - Enables faster decision-making  
 - Demonstrates scalable automation system  
 
-## Dashboard Preview
+## 📸 Dashboard Preview
 
----
+### ERP Analytics Dashboard
+
+![Dashboard Preview](dashboard.png)
 
 ---
 
