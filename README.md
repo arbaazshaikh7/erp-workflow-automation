@@ -141,7 +141,7 @@ streamlit run dashboard/app.py
 
 ### ERP Analytics Dashboard
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](./dashboard.png)
 
 ---
 
