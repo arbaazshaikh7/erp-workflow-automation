@@ -1,0 +1,5 @@
+database/
+output/
+__pycache__/
+*.db
+*.pyc
