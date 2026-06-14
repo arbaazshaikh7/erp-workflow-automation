@@ -141,7 +141,7 @@ streamlit run dashboard/app.py
 
 ### ERP Analytics Dashboard
 
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](https://github.com/arbaazshaikh7/erp-workflow-automation/blob/main/dashboard.png)
 
 ---
 
